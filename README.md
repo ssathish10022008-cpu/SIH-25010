@@ -41,7 +41,7 @@ Government of Punjab
 Agriculture, FoodTech & Rural Development
 
 ## Proposed solution
-Kisan Saathi - The Smart Digital Agronomist
+Kisan shakthi - The Smart Digital Agronomist
 The Kisan Saathi platform is designed as a modular system to address the farmers' lack of real-time, personalized, and multilingual advisory services.
 
 Core Components
